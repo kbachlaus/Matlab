@@ -1,6 +1,6 @@
 # Matlab
 Matlab course taken at Georgia Institute of Technology (CS 1371 - Computing for Engineers)
-The github repository contains course homework completely soley by myself. 
+The github repository contains course homework completely solely by myself. 
 
 Course content:
 
